@@ -254,7 +254,7 @@ Transform:
   - {fileID: 558734239}
   - {fileID: 1396921879}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &191082776
 MonoBehaviour:
@@ -683,7 +683,7 @@ Transform:
   m_LocalScale: {x: 13.024939, y: 42.037796, z: 5.9373}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!1001 &1383813781
 PrefabInstance:
