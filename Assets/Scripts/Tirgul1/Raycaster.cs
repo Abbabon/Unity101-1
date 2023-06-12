@@ -23,7 +23,7 @@ namespace Tirgul1
                     
                     if (hit.rigidbody == null && pressingRight)
                     {
-                        var newObject = Instantiate(_prefab, hit.point + Vector3.up * 5, Quaternion.identity);
+                        var newObject = Instantiate(_prefab, hit.point + Vector3.up * 2, Quaternion.identity);
                     }
                 }
             }
