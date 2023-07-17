@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SurvivorsDemo/AcademitSurvivorsMenu.unity
+    guid: 4a53fa6b3e78c41059d6937a899b3cce
+  - enabled: 1
+    path: Assets/Scenes/SurvivorsDemo/AcademitSurvivors.unity
+    guid: e5d13eb4a89904fb6be6451a5951e422
   m_configObjects: {}
